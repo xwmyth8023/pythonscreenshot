@@ -1,0 +1,94 @@
+{
+  "domains": [
+    {
+      "name": "production",
+      "host": "http://www.thebump.com"
+    },
+    {
+      "name": "qa",
+      "host": "https://qa-www.thebump.com"
+    }
+  ],
+  "paths": [
+    {
+      "name":"pregnancy",
+      "path":"/topics/pregnancy"
+    },
+    {
+      "name":"getting-pregnant",
+      "path":"/topics/getting-pregnant" 
+    },
+    {
+      "name":"ttc-ovulation",
+      "path":"/topics/ttc-ovulation"
+    },
+    {
+      "name":"ovulation",
+      "path":"/calculators/ovulation"
+    },
+    {
+      "name":"first-trimester",
+      "path":"/topics/first-trimester"
+    },
+    {
+      "name":"second-trimester",
+      "path":"/topics/second-trimester"
+    },
+    {
+      "name":"third-trimester",
+      "path":"/topics/third-trimester"
+    },
+    {
+      "name":"pregnancy-week-by-week",
+      "path":"/pregnancy-week-by-week"
+    },
+    {
+      "name":"pregnancy-baby-showers",
+      "path":"/topics/pregnancy-baby-showers"
+    },
+    {
+      "name":"best-of-baby",
+      "path":"/best-of-baby"
+    },
+    {
+      "name":"cordblood",
+      "path":"/cordblood"
+    },
+    {
+      "name":"parenting",
+      "path":"/topics/parenting"
+    },
+    {
+      "name":"parenting-breastfeeding",
+      "path":"/topics/parenting-breastfeeding"
+    },
+    {
+      "name":"baby-month-by-month",
+      "path":"/baby-month-by-month"
+    },
+    {
+      "name":"toddler",
+      "path":"/toddler"
+    },
+    {
+      "name":"topics",
+      "path":"/topics"
+    },
+    {
+      "name":"tools",
+      "path":"/tools"
+    },
+    {
+      "name":"chinese-gender-chart",
+      "path":"/chinese-gender-chart"
+    },
+    {
+      "name":"news",
+      "path":"/news"
+    },
+    {
+      "name":"community",
+      "path":"/community"
+    }
+  ]
+}

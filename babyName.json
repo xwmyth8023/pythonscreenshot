@@ -1,0 +1,141 @@
+{
+  "domains": [
+    {
+      "name": "production",
+      "host": "http://www.thebump.com"
+    },
+    {
+      "name": "qa",
+      "host": "https://qa-www.thebump.com"
+    }
+  ],    
+  "paths": [ 
+    {
+      "name": "baby_names",
+      "path": "/baby-names"
+    },
+    {
+      "name":"girl_baby_names",
+      "path": "/b/girl-baby-names"
+    },
+    {
+      "name":"boy_baby_names",
+      "path":"/b/boy-baby-names"
+    },
+    {
+      "name":"baby_name_lists",
+      "path":"/b/baby-name-lists"
+    },
+    {
+      "name":"baby_name_origin",
+      "path":"/b/baby-name-origins"
+    },
+    {
+      "name":"baby_names_that_start_with_a",
+      "path":"/b/baby-names-that-start-with-a"
+    },
+    {
+      "name":"baby_names_that_start_with_b",
+      "path":"/b/baby-names-that-start-with-b"
+    },
+    {
+      "name":"baby_names_that_start_with_h",
+      "path":"/b/baby-names-that-start-with-h"
+    },
+    {
+      "name":"baby_names_that_start_with_m",
+      "path":"/b/baby-names-that-start-with-m"
+    },
+    {
+      "name": "boy_start_with_a",
+      "path": "/b/baby-boy-names-that-start-with-a"
+    },
+    {
+      "name": "boy_start_with_d",
+      "path": "/b/baby-boy-names-that-start-with-d"
+    },
+    {
+      "name": "boy_start_with_j",
+      "path": "/b/baby-boy-names-that-start-with-j"
+    },
+    {
+      "name": "boy_start_with_g",
+      "path": "/b/baby-boy-names-that-start-with-g"
+    },
+    {
+      "name": "boy_start_with_y",
+      "path": "/b/baby-boy-names-that-start-with-y"
+    },
+    {
+      "name": "girl_start_with_a",
+      "path": "/b/baby-girl-names-that-start-with-a"
+    },
+    {
+      "name": "girl_start_with_k",
+      "path": "/b/baby-girl-names-that-start-with-k"
+    },
+    {
+      "name": "girl_start_with_c",
+      "path": "/b/baby-girl-names-that-start-with-c"
+    },
+    {
+      "name": "girl_start_with_i",
+      "path": "/b/baby-girl-names-that-start-with-i"
+    },
+    {
+      "name": "girl_start_with_q",
+      "path": "/b/baby-girl-names-that-start-with-q"
+    },
+    {
+      "name": "african_baby_names",
+      "path": "/b/african-baby-names"
+    },
+    {
+      "name": "american_baby_names",
+      "path": "/b/american-baby-names"
+    },
+    {
+      "name": "british_baby_names",
+      "path": "/b/british-baby-names"
+    },
+    {
+      "name": "french_baby_names",
+      "path": "/b/french-baby-names"
+    },
+    {
+      "name": "famous_celebrity",
+      "path": "/b/celebrity-baby-names"
+    },
+    {
+      "name": "famous_weird-celebrity",
+      "path": "/b/weird-celebrity-baby-names"
+    },
+    {
+      "name": "list_most-popular",
+      "path": "/b/most-popular-baby-names"
+    },
+    {
+      "name": "list_unique",
+      "path": "/b/unique-baby-names"
+    },
+    {
+      "name": "list_cool",
+      "path": "/b/cool-baby-names"
+    },
+    {
+      "name": "unisex",
+      "path": "/b/unisex-baby-names"
+    },
+    {
+      "name": "top2014",
+      "path": "/b/top-baby-names-2014"
+    },
+    {
+      "name": "top2015",
+      "path": "/b/top-baby-names-2015"
+    },
+    {
+      "name": "classic",
+      "path": "/b/classic-baby-names"
+    }
+]}
